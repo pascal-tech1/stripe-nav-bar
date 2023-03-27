@@ -6,7 +6,7 @@ This clone was created using React, including React Hooks and Styled Components.
 
 ## Demo
 
-You can see a live demo of the Stripe navigation bar clone here.
+You can see a live demo of the Stripe navigation bar clone [here](pascalprojects-stripe-clone.netlify.app).
 
 ## Installation
 
