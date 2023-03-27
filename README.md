@@ -20,4 +20,4 @@ You can customize the navigation bar by changing the colors and fonts in the ind
 
 ### Credits
 
-This project was created by Your Pascal as a coding exercise. The original navigation bar design was created by Stripe.
+This project was created by Pascal as a coding exercise. The original navigation bar design was created by Stripe.
