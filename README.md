@@ -2,6 +2,10 @@
 
 This is a clone of the navigation bar found on the Stripe website, created using React. The Stripe navigation bar is a responsive and dynamic user interface that allows users to quickly navigate to different parts of the website.
 
+## site preview
+
+![site preview](stripeLike.jpg)
+
 This clone was created using React, including React Hooks and Styled Components. It is fully responsive and includes hover animations and a dropdown menu.
 
 ## Demo
